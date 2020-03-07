@@ -1,0 +1,19 @@
+{
+  "name": "@luigiaxl/axios-error-class",
+  "version": "1.0.0",
+  "description": "Axios class for handling errors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luigiaxl/axios-error-class.git"
+  },
+  "author": "Luigi Axl Wagas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luigiaxl/axios-error-class/issues"
+  },
+  "homepage": "https://github.com/luigiaxl/axios-error-class#readme"
+}
