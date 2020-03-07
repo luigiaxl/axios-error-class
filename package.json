@@ -1,6 +1,6 @@
 {
   "name": "@luigiaxl/axios-error-class",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Axios class for handling Laravel error responses.",
   "main": "index.js",
   "scripts": {
